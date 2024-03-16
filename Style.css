@@ -563,7 +563,10 @@ footer p {
 
     .section__text__p1{
         font-weight: 700;
-        margin-top: 100px;
+    }
+
+    .section__text, .section__text__p1{
+        margin: 5px;
     }
 
     .section__text__p2 {
@@ -577,7 +580,7 @@ footer p {
     .text-container {
         text-align: justify;
     }
-    footer .copyrightid{
-        margin-top:  90px;
+    footer .copyright-id{
+        margin-top:  10px;
     }
 }
